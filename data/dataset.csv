@@ -42,7 +42,7 @@ id,text,annotations
 проспекту B-Avenue
 Ленина I-Avenue
 в O
-Хабаровским B-Krai
+Хабаровском B-Krai
 крае I-Krai
 . O"
 6,"Живу в Башкортостане, в Центральном районе, в селе Сидорово.","Живу O
@@ -50,7 +50,7 @@ id,text,annotations
 Башкортостане B-Republic
 , O
 в O
-Центральным B-District
+Центральном B-District
 районе I-District
 , O
 в O
@@ -137,7 +137,7 @@ id,text,annotations
 Мордовии B-Republic
 , O
 в O
-Советским B-District
+Советском B-District
 районе I-District
 , O
 в O
@@ -235,7 +235,7 @@ id,text,annotations
 идет O
 дорога O
 в O
-Краснодарским B-Krai
+Краснодарском B-Krai
 крае I-Krai
 . O"
 23,"На шоссе Московское находится сооружение А.","На O
@@ -250,7 +250,7 @@ id,text,annotations
 Чувашии B-Republic
 , O
 в O
-Кировским B-District
+Кировском B-District
 районе I-District
 , O
 в O
@@ -373,7 +373,7 @@ id,text,annotations
 проспекту B-Avenue
 Ленина I-Avenue
 в O
-Алтайским B-Krai
+Алтайском B-Krai
 крае I-Krai
 проходит O
 маршрут O
